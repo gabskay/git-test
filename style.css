@@ -1,0 +1,29 @@
+.poster{
+    background-color: hsl(0, 0%, 100%);
+    width: 25%;
+    height:25%px;
+    margin-left:35%;
+    margin-top: 50px;
+ 
+    font-family: "Libre Baskerville",serif;
+    text-align: center;
+    border: 10px solid white;
+    text-decoration: black;
+    
+    border-radius: 10px;
+    
+    
+}
+*{
+    background-color: hsla(217, 18%, 50%, 1.00);
+}
+h3{
+    background-color: white;
+}
+
+p{
+    background-color: white;
+}
+img{
+    border-radius: 10px ;
+}
